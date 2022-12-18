@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/acme-dashboard/static/css/main.a15b6cf5.css",
+    "main.js": "/acme-dashboard/static/js/main.dce35c25.js",
+    "static/media/logo.svg": "/acme-dashboard/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/acme-dashboard/index.html",
+    "main.a15b6cf5.css.map": "/acme-dashboard/static/css/main.a15b6cf5.css.map",
+    "main.dce35c25.js.map": "/acme-dashboard/static/js/main.dce35c25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a15b6cf5.css",
+    "static/js/main.dce35c25.js"
+  ]
+}
