@@ -21,7 +21,7 @@ const App=()=> {
 
           <div className={`bg-white maincontainer h-100 ${showsidebar && "ContainerWidth"}`}>
             <Header showsidebar={showsidebar} setshowsidebar={setshowsidebar} />
-            <div className='bg-skyblue h-100 px-md-3 p-1 container-fluid'>
+            <div className='bg-skyblue h-100 px-md-3 py-1 px-2 container-fluid'>
             <Routes>
               <Route path={'acme-dashboard/home'} element={<Home/>} />
               <Route path={'acme-dashboard/'} element={<Dashboard/>} />
