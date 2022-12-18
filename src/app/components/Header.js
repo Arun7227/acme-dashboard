@@ -74,7 +74,7 @@ const expandSearch=(e)=>{
             <div className='row'>
               <div className='col-2'>
               <div className=' rounded-circle  overflow-hidden'>
-                <img height='35' width='35' src='/assets/images/profile-pic-02.jpg'/>
+                <img height='35' width='35' src='assets/images/profile-pic-02.jpg'/>
                 </div>
 
               </div>
@@ -93,7 +93,7 @@ const expandSearch=(e)=>{
           <div className='row'>
               <div className='col-2'>
               <div className=' rounded-circle  overflow-hidden'>
-                <img height='35' width='35' src='/assets/images/profile-pic-06.jpg'/>
+                <img height='35' width='35' src='assets/images/profile-pic-06.jpg'/>
                 </div>
 
               </div>
@@ -114,7 +114,7 @@ const expandSearch=(e)=>{
           <div className='row'>
               <div className='col-2'>
               <div className=' rounded-circle  overflow-hidden'>
-                <img height='35' width='35' src='/assets/images/profile-pic-05.jpg'/>
+                <img height='35' width='35' src='assets/images/profile-pic-05.jpg'/>
                 </div>
 
               </div>
@@ -143,7 +143,7 @@ const expandSearch=(e)=>{
               </NavDropdown.Item>
             </NavDropdown>
            
-            <span className=' rounded-circle ms-2  overflow-hidden'><img height='35' width='35' src='/assets/images/profile-pic-04.jpg'/></span>
+            <span className=' rounded-circle ms-2  overflow-hidden'><img height='35' width='35' src='assets/images/profile-pic-04.jpg'/></span>
       </div>
       <span className='clear'></span>
 

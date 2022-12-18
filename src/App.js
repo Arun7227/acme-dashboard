@@ -20,8 +20,8 @@ const App=()=> {
             <Header showsidebar={showsidebar} setshowsidebar={setshowsidebar} />
             <div className='bg-skyblue h-100 px-md-3 p-1 container-fluid'>
             <Routes>
-              <Route path={'/home'} element={<Home/>} />
-              <Route path={'/'} element={<Dashboard/>} />
+              <Route path={'acme-dashboard/home'} element={<Home/>} />
+              <Route path={'acme-dashboard/'} element={<Dashboard/>} />
             </Routes>
             </div>
           </div>

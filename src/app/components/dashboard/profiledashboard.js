@@ -18,7 +18,7 @@ const Profiledashboard = () => {
                 <div className='row mb-3'>
               <div className='col-2 px-md-0 px-lg-1'>
               <div className='  overflow-hidden'>
-                <img className='rounded-circle ' height='35' width='35' src='/assets/images/profile-pic-03.jpg'/>
+                <img className='rounded-circle ' height='35' width='35' src='assets/images/profile-pic-03.jpg'/>
                 </div>
 
               </div>
@@ -37,7 +37,7 @@ const Profiledashboard = () => {
             <div className='row mb-3'>
               <div className='col-2 px-md-0 px-lg-1'>
               <div className=' overflow-hidden'>
-                <img className='rounded-circle ' height='35' width='35' src='/assets/images/profile-pic-02.jpg'/>
+                <img className='rounded-circle ' height='35' width='35' src='assets/images/profile-pic-02.jpg'/>
                 </div>
 
               </div>
@@ -56,7 +56,7 @@ const Profiledashboard = () => {
             <div className='row '>
               <div className='col-2 px-md-0 px-lg-1'>
               <div className='  overflow-hidden'>
-                <img className='rounded-circle ' height='35' width='35' src='/assets/images/profile-pic-04.jpg'/>
+                <img className='rounded-circle ' height='35' width='35' src='assets/images/profile-pic-04.jpg'/>
                 </div>
 
               </div>

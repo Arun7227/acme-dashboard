@@ -10,7 +10,7 @@ const ProductVideo = () => {
                 </div>
                 <div>
                     <video controls autoPlay className='w-100'  height="220">
-                       <source src="/assets/video/mitsogo productVideo.mp4"/>
+                       <source src="assets/video/mitsogo productVideo.mp4"/>
                     </video>
                     
                 </div>
