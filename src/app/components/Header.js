@@ -51,11 +51,11 @@ const expandSearch=(e)=>{
   return (
     <div className={`pageheader bg-indico ${showsidebar && 'pageheaderwidth'}`}>
       <div className={`${showsidebar && 'br-1'}  bg-white w-100 p-2 fs-12 `}>
-      <i onClick={(e)=>togglesidebar(e)} className="bi bi-justify-left fs-22 w-10 float-start"></i>
+      <i onClick={(e)=>togglesidebar(e)} className="bi bi-justify-left fs-22 w-10 float-start cursor"></i>
      <div className='float-start w-50 mt-2 masterserchdiv'>
   {
     !mobilesearch&&
-    <i className="bi bi-search ms-3 master-search-icon"onClick={(e)=>expandSearch(e)}></i>
+    <i className="bi bi-search ms-3 master-search-icon "onClick={(e)=>expandSearch(e)}></i>
 
   }
         <input onBlur={()=>Setmobilesearch(false)}  type='text' className={`border-0 search width-md-30 ms-1 align-baseline mastersearch ${mobilesearch ? 'mastersearchexpandmobile':'mastersearchmobile'} `} placeholder='Search transactions,invoices or help'/>

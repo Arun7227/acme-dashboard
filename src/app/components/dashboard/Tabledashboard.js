@@ -84,7 +84,7 @@ const Tabledashboard = () => {
                 }
               <tr>
                 <td colSpan='5'>
-                <span className='fw-bold text-primaryBlue fs-13' eventKey="4">Show more</span>
+                <span className='fw-bold text-primaryBlue fs-13 cursor' eventKey="4">Show more</span>
 
                 </td>
               </tr>
