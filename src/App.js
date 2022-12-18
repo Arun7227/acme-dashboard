@@ -26,8 +26,8 @@ const App=()=> {
               <Route path={'acme-dashboard/home'} element={<Home/>} />
               <Route path={'acme-dashboard/'} element={<Dashboard/>} />
               <Route path={'acme-dashboard/inbox'} element={<Inbox/>} />
-              <Route path={'acme-dashboard/products'} element={<Admin/>} />
-              <Route path={'acme-dashboard/admin'} element={<Product/>} />
+              <Route path={'acme-dashboard/products'} element={<Product/>} />
+              <Route path={'acme-dashboard/admin'} element={<Admin/>} />
             </Routes>
             </div>
           </div>
