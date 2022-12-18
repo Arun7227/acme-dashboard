@@ -8,19 +8,19 @@ const Sidebar = ({showsidebar}) => {
      <h6 className='text-white fw-bold px-3 fs-20 letter-s-3'>ACME</h6>
     </div>
      <div className=" py-3  fw-normal">
-            <NavLink className={`text-white text-decoration-none px-3 py-3 d-block sidebarlink`}    to={'home'}>
+            <NavLink className={`text-white text-decoration-none px-3 py-3 d-block sidebarlink`}    to={'acme-dashboard/home'}>
                 <i className="bi bi-house me-3"></i><span className='align-middle fs-12'>Home</span>
            </NavLink>
-           <NavLink className="text-white text-decoration-none px-3 py-3 d-block sidebarlink"   to={'/'}>
+           <NavLink className="text-white text-decoration-none px-3 py-3 d-block sidebarlink"   to={'acme-dashboard/'}>
                 <i className="bi  bi-file-bar-graph me-3"></i><span className='align-middle fs-12'>Dashboard</span>
            </NavLink>
-           <NavLink className="text-white text-decoration-none px-3 py-3 d-block sidebarlink"    to={'/inbox'}>
+           <NavLink className="text-white text-decoration-none px-3 py-3 d-block sidebarlink"    to={'acme-dashboard/inbox'}>
                 <i className="bi bi-envelope me-3"></i><span className='align-middle fs-12'>Inbox</span>
            </NavLink>
-           <NavLink className="text-white text-decoration-none px-3 py-3 d-block sidebarlink"   to={'/products'}>
+           <NavLink className="text-white text-decoration-none px-3 py-3 d-block sidebarlink"   to={'acme-dashboard/products'}>
                 <i className="bi  bi-file-text me-3"></i><span className='align-middle fs-12'>Products</span>
            </NavLink>
-           <NavLink className="text-white text-decoration-none px-3 py-3 d-block sidebarlink"   to={'/admin'}>
+           <NavLink className="text-white text-decoration-none px-3 py-3 d-block sidebarlink"   to={'acme-dashboard/admin'}>
                 <i className="bi bi-gear me-3"></i><span className='align-middle fs-12'>Admin</span>
            </NavLink>
        </div>

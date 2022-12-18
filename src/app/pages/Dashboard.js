@@ -38,7 +38,7 @@ const Dashboard = () => {
           
                    </select>
                   </div>
-                <Line className='w-100' height='160'  options={optionslinechart} data={datalinechart} />
+                <Line className='w-100 linehchartheight' height='160'  options={optionslinechart} data={datalinechart} />
                 </div>
                 <div className=' h-10 fs-12'>
                      <div className='d-flex justify-content-center'>

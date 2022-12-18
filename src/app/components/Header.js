@@ -49,7 +49,7 @@ const expandSearch=(e)=>{
 }
 
   return (
-    <div className=' pageheader bg-indico'>
+    <div className={`pageheader bg-indico ${showsidebar && 'pageheaderwidth'}`}>
       <div className={`${showsidebar && 'br-1'}  bg-white w-100 p-2 fs-12 `}>
       <i onClick={(e)=>togglesidebar(e)} className="bi bi-justify-left fs-22 w-10 float-start"></i>
      <div className='float-start w-50 mt-2 masterserchdiv'>
