@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/acme-dashboard/static/css/main.85ac4de8.css",
-    "main.js": "/acme-dashboard/static/js/main.54e63f4b.js",
+    "main.css": "/acme-dashboard/static/css/main.f4957495.css",
+    "main.js": "/acme-dashboard/static/js/main.c6be4c20.js",
     "static/media/logo.svg": "/acme-dashboard/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
     "index.html": "/acme-dashboard/index.html",
-    "main.85ac4de8.css.map": "/acme-dashboard/static/css/main.85ac4de8.css.map",
-    "main.54e63f4b.js.map": "/acme-dashboard/static/js/main.54e63f4b.js.map"
+    "main.f4957495.css.map": "/acme-dashboard/static/css/main.f4957495.css.map",
+    "main.c6be4c20.js.map": "/acme-dashboard/static/js/main.c6be4c20.js.map"
   },
   "entrypoints": [
-    "static/css/main.85ac4de8.css",
-    "static/js/main.54e63f4b.js"
+    "static/css/main.f4957495.css",
+    "static/js/main.c6be4c20.js"
   ]
 }
